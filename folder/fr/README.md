@@ -1,1 +1,1 @@
-# figma-git
+# Figma, figma
